@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2026.07.19 09:19:34.763,=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>2026.07.19 09:19:49.666,C:\Users\Lenovo\Downloads\Skiatris\Unit1.fmx=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Unit1.fmx</Transaction>
+    <Transaction>2026.07.19 09:19:49.666,C:\Users\Lenovo\Downloads\Skiatris\Unit1.pas=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>2026.07.19 09:19:57.577,C:\Users\Lenovo\Downloads\Skiatris\Skiatris.dproj=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Project1.dproj</Transaction>
+    <Transaction>2026.07.19 09:20:02.229,=C:\Users\Lenovo\Downloads\Skiatris\Unit2.pas</Transaction>
+    <Transaction>2026.07.19 09:20:28.675,C:\Users\Lenovo\Downloads\Skiatris\uSkiatris.pas=C:\Users\Lenovo\Downloads\Skiatris\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
