@@ -1,6 +1,8 @@
 # Skiatris
 RADStudio FMX / Skia4Delphi Arcade Game "Skiatris". A high-performance, thread-safe falling block game prototype built entirely with Skia4Delphi.  
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/LaMitaOne/Skiatris)
+          
 <img width="382" height="703" alt="Unbenannt" src="https://github.com/user-attachments/assets/c7727485-0956-41ef-abc2-ad070368d871" />
 
     
